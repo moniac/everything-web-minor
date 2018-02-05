@@ -1,5 +1,4 @@
 # Vanilla JS vs Libraries & Frameworks
-### Pro's and Cons
 
 To talk about the benefits and cons of using a framework or library instead of pure vanilla JS, we need to define what a framework and a library is.
 
